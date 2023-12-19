@@ -20,13 +20,13 @@ Guided by: https://dortania.github.io/OpenCore-Install-Guide/
 | Wireless  | Intel® Wi-Fi 6 AX201  |
 | Ethernet  | Realtek RTL8168H  |
 
-#Change BIOS settings
+# Change BIOS settings
 Show hidden settings with: CTRL Right + SHIFT Right + ALT Left + F2
 Turn off Secure Boot [Security]
 Turn off CFG Lock [Advanced -> Power & Performance -> CPU -> CPU Lock Configuration]
 Disable Fast Boot [Boot]
 Select UEFI mode without CSM [Boot]
-#Works
+# Works
 QE/CI Graphics Of iGPU Intel® UHD Graphics for 10th [Intel® UHD 630]
 CPU Power Management
 Restart, Sleep and Shutdown
@@ -41,7 +41,7 @@ Bluetooth Headset Mic
 Wifi
 HDMI video / audio
 
-#Not Works
+# Not Works
 AirDrop & Facetime (Need Native WiFi Card)
 Fan Speed ( Common problem MSI Notebook)
 Nvidia RTX 3050 6GB (Switchable Graphics is not supported by Hackintosh)
