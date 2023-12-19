@@ -21,28 +21,31 @@ Guided by: https://dortania.github.io/OpenCore-Install-Guide/
 | Ethernet  | Realtek RTL8168H  |
 
 # Change BIOS settings
-Show hidden settings with: CTRL Right + SHIFT Right + ALT Left + F2
-Turn off Secure Boot [Security]
-Turn off CFG Lock [Advanced -> Power & Performance -> CPU -> CPU Lock Configuration]
-Disable Fast Boot [Boot]
-Select UEFI mode without CSM [Boot]
+
+- Show hidden settings with: CTRL Right + SHIFT Right + ALT Left + F2
+- Turn off Secure Boot [Security]
+- Turn off CFG Lock [Advanced -> Power & Performance -> CPU -> CPU Lock Configuration]
+- Disable Fast Boot [Boot]
+- Select UEFI mode without CSM [Boot]
+
 # Works
-QE/CI Graphics Of iGPU Intel® UHD Graphics for 10th [Intel® UHD 630]
-CPU Power Management
-Restart, Sleep and Shutdown
-Realtek ALC233 Audio
-Trackpad with multi-touch gestures
-Battery status
-Bluetooth
-All USB Ports
-Function Key
-Brightness Button Up/Down
-Bluetooth Headset Mic
-Wifi
-HDMI video / audio
+
+- QE/CI Graphics Of iGPU Intel® UHD Graphics for 10th [Intel® UHD 630]
+- CPU Power Management
+- Restart, Sleep and Shutdown
+- Realtek ALC233 Audio
+- Trackpad with multi-touch gestures
+- Battery status
+- Bluetooth
+- All USB Ports
+- Function Key
+- Brightness Button Up/Down
+- Bluetooth Headset Mic
+- Wifi
+- HDMI video / audio
 
 # Not Works
-AirDrop & Facetime (Need Native WiFi Card)
+- AirDrop & Facetime (Need Native WiFi Card)
 Fan Speed ( Common problem MSI Notebook)
 Nvidia RTX 3050 6GB (Switchable Graphics is not supported by Hackintosh)
 Etc
