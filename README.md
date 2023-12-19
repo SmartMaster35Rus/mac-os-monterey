@@ -45,7 +45,4 @@ Guided by: https://dortania.github.io/OpenCore-Install-Guide/
 - HDMI video / audio
 
 # Not Works
-- AirDrop & Facetime (Need Native WiFi Card)
-Fan Speed ( Common problem MSI Notebook)
-Nvidia RTX 3050 6GB (Switchable Graphics is not supported by Hackintosh)
-Etc
+- AirDrop & Facetime
