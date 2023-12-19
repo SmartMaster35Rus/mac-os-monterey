@@ -13,6 +13,8 @@ Guided by: https://dortania.github.io/OpenCore-Install-Guide/
 | Memory  | 8 GB DDR4 3200 Mhz  |
 | Disk  | M.2 PCIe SSD Kingston OM8PCP3512F 512GB  |
 | Integrated Graphics  | Intel UHD Graphics 630  |
+| Discrete Graphics  | NVIDIA GeForce RTX 3050 4GB  |
+| Ethernet  | Realtek RTL8168H  |
 | Display  | IPS FHD 1920x1080 (17.3 inch) @144Hz  |
 | Sound Card  | Realtek Audio ALC233  |
 | Wireless  | Intel® Wi-Fi 6 AX201  |
