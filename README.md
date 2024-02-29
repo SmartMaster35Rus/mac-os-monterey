@@ -10,7 +10,7 @@ Guided by: https://dortania.github.io/OpenCore-Install-Guide/
 |--------------------|--------------------|
 | Computer model  | MSI GF75 Thin 10UC-048XRU 17.3" (RTX 3050)  | 
 | Processor  | Intel® Core™ i5-10500H @2.50Ghz  |
-| Memory  | 8 GB DDR4 3200 Mhz  |
+| Memory  | 16 GB DDR4 3200 Mhz  |
 | Disk  | M.2 PCIe SSD Kingston OM8PCP3512F 512GB  |
 | Integrated Graphics  | Intel UHD Graphics 630  |
 | Discrete Graphics  | NVIDIA GeForce RTX 3050 4GB  |
