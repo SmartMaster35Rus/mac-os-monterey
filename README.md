@@ -45,6 +45,7 @@ Guided by: https://dortania.github.io/OpenCore-Install-Guide/
 - Bluetooth Headset Mic
 - Wifi
 - HDMI video / audio
+- iMessage
 
 # Not Works
 - AirDrop & Facetime
