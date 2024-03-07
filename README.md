@@ -1,6 +1,6 @@
 ![picture](Picture.png)
 
-# EFI Mac OS Monterey for MSI GF75 Thin 10UC-048XRU 17.3" Gaming Laptop, i5-10300H, 8GB, 128GB SSD
+# EFI Mac OS Monterey for MSI GF75 Thin 10UC-048XRU 17.3" Gaming Laptop, i5-10300H, 16GB, 128GB SSD
  
 MSI GF75 10SC OpenCore 0.9.2 Monterey 12.6
 
@@ -12,7 +12,7 @@ Guided by: https://dortania.github.io/OpenCore-Install-Guide/
 |--------------------|--------------------|
 | Computer model  | MSI GF75 Thin 10UC-048XRU 17.3" (RTX 3050)  | 
 | Processor  | Intel® Core™ i5-10500H @2.50Ghz  |
-| Memory  | 16 GB DDR4 3200 Mhz  |
+| Memory  | 16 GB DDR4 3200 Mhz (8+8)  |
 | Disk  | M.2 PCIe SSD Kingston OM8PCP3512F 512GB  |
 | Integrated Graphics  | Intel UHD Graphics 630  |
 | Discrete Graphics  | NVIDIA GeForce RTX 3050 4GB  |
