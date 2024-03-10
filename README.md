@@ -46,6 +46,7 @@ Guided by: https://dortania.github.io/OpenCore-Install-Guide/
 - Wifi
 - HDMI video / audio
 - iMessage
+- Facetime
 
 # Not Works
-- AirDrop & Facetime
+- AirDrop
