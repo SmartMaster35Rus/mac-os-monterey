@@ -50,3 +50,25 @@ Guided by: https://dortania.github.io/OpenCore-Install-Guide/
 
 # Not Works
 - AirDrop
+
+# If applications crash with errors, follow these instructions to fix:
+
+1. Open the terminal:
+
+    ```Terminal
+    sudo chmod -R 755 /Applications/SMDActivator.app 
+    Enter administrator password: *********
+    ```
+
+2. Right-click on the application and select "Show Package Contents".
+
+3. Navigate to the folder `/Applications/SMDActivator.app/Contents/MacOS/SMDActivator`.
+
+4. Open the terminal again:
+
+    ```Terminal
+    sudo chmod -R 755 /Applications/SMDActivator.app/Contents/MacOS/SMDActivator
+    Enter administrator password: *********
+    ```
+
+Now the application that was crashing with a memory error should be ready to use!
