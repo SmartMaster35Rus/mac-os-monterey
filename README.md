@@ -72,3 +72,23 @@ Guided by: https://dortania.github.io/OpenCore-Install-Guide/
     ```
 
 Now the application that was crashing with a memory error should be ready to use!
+
+#If you're still experiencing issues with applications, particularly those related to memory access errors and notifications, the solution is straightforward.
+
+  **Step 1**: Enter Recovery Mode.
+  To enter Recovery Mode, restart your Mac and immediately press and hold `Command (⌘) + R` until you see the Apple logo or a spinning globe.
+
+  **Step 2**: Select the option to install macOS Monterey.
+  Note: These instructions are specific to macOS Monterey. Steps may vary for other versions of macOS.
+
+  **Step 3**: Choose the disk where your current system is installed.
+
+  **Step 4**: Wait for the installation to complete.
+  This process will reinstall all system files while keeping your personal files and applications untouched.
+
+  **Important**: Before proceeding with the reinstallation, ensure you have backed up your important data to avoid any potential data loss.
+
+  After reinstalling macOS, check for updates under `System Preferences` -> `Software Update` to ensure all components are up to date. If issues persist, consider reinstalling affected applications.
+
+
+
